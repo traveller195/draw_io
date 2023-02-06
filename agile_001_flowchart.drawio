@@ -1,32 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T15:18:35.453Z" agent="5.0 (Windows)" etag="0JwAhH_sD4ayx5wF2mcc" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T15:31:42.574Z" agent="5.0 (Windows)" etag="H9Lv1Dyf72VwlxqcNyPL" version="20.8.16" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1195" dy="1432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2-7jsOi7BqS28HNkt4eJ-55" value="3D buidilng data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-7jsOi7BqS28HNkt4eJ-57" target="2-7jsOi7BqS28HNkt4eJ-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2-7jsOi7BqS28HNkt4eJ-57" value="pre-processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2-7jsOi7BqS28HNkt4eJ-58" value="&lt;div&gt;adress data&lt;/div&gt;&lt;div&gt;with number&lt;/div&gt;&lt;div&gt;of jobs&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-58" value="&lt;div&gt;adress data with &lt;br&gt;&lt;/div&gt;&lt;div&gt;number of jobs &lt;br&gt;&lt;/div&gt;&lt;div&gt;by sector&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2-7jsOi7BqS28HNkt4eJ-59" value="&lt;div&gt;sector based&lt;/div&gt;&lt;div&gt;densities&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-20" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.333;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2-7jsOi7BqS28HNkt4eJ-60" target="2-7jsOi7BqS28HNkt4eJ-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="269.66666666666674" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2-7jsOi7BqS28HNkt4eJ-60" value="road network" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-7jsOi7BqS28HNkt4eJ-61" target="2-7jsOi7BqS28HNkt4eJ-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2-7jsOi7BqS28HNkt4eJ-61" value="&lt;div&gt;geocoding&lt;/div&gt;&lt;div&gt;(semi-automated)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-7jsOi7BqS28HNkt4eJ-62" target="2-7jsOi7BqS28HNkt4eJ-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2-7jsOi7BqS28HNkt4eJ-62" value="&lt;div&gt;derivation of&lt;/div&gt;&lt;div&gt;building features&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2-7jsOi7BqS28HNkt4eJ-63" target="2-7jsOi7BqS28HNkt4eJ-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2-7jsOi7BqS28HNkt4eJ-63" value="&lt;div&gt;clustering&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-64" value="&lt;div&gt;groups of&lt;/div&gt;&lt;div&gt;economic sectors&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-7jsOi7BqS28HNkt4eJ-55" target="2-7jsOi7BqS28HNkt4eJ-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="30" as="sourcePoint" />
+            <mxPoint x="280" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="189.57999999999998" as="sourcePoint" />
+            <mxPoint x="240" y="189.57999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2-7jsOi7BqS28HNkt4eJ-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="350" />
+              <mxPoint x="480" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-77" value="land parcel data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
