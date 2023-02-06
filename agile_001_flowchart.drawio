@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T15:06:51.703Z" agent="5.0 (Windows)" etag="P3K_a7HEy8k6gcvejSaC" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T15:18:35.453Z" agent="5.0 (Windows)" etag="0JwAhH_sD4ayx5wF2mcc" version="20.8.16" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1195" dy="1432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -10,17 +10,23 @@
         <mxCell id="2-7jsOi7BqS28HNkt4eJ-57" value="pre-processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2-7jsOi7BqS28HNkt4eJ-58" value="&lt;div&gt;reference &lt;br&gt;&lt;/div&gt;&lt;div&gt;job data&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-58" value="&lt;div&gt;adress data&lt;/div&gt;&lt;div&gt;with number&lt;/div&gt;&lt;div&gt;of jobs&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2-7jsOi7BqS28HNkt4eJ-59" value="&lt;div&gt;sector based&lt;/div&gt;&lt;div&gt;densities&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-20" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2-7jsOi7BqS28HNkt4eJ-60" value="road network" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2-7jsOi7BqS28HNkt4eJ-61" value="pre-processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-61" value="&lt;div&gt;geocoding&lt;/div&gt;&lt;div&gt;(semi-automated)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-62" value="&lt;div&gt;derivation of&lt;/div&gt;&lt;div&gt;building features&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-7jsOi7BqS28HNkt4eJ-63" value="&lt;div&gt;clustering&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
