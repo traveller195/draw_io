@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T12:07:38.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.21" etag="yta20JjWQuzGgfWur4VX" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T12:35:09.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="onA3KHVaZfq1jx3IK3Wz" version="22.1.21" type="github">
   <diagram name="Seite-1" id="7itORTUB3bLX3umiasWY">
-    <mxGraphModel>
+    <mxGraphModel dx="3200" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zgmgz5HFSm-j7z8Il_pY-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zgmgz5HFSm-j7z8Il_pY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zgmgz5HFSm-j7z8Il_pY-3" target="zgmgz5HFSm-j7z8Il_pY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgmgz5HFSm-j7z8Il_pY-3" value="&lt;div&gt;Metadaten&lt;/div&gt;&lt;div&gt;IÖR Monitor&lt;/div&gt;&lt;div&gt;Indikatoren&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zgmgz5HFSm-j7z8Il_pY-4" value="&lt;div&gt;DB Tabelle&lt;/div&gt;&lt;div&gt;&quot;data-picker&quot;&lt;br&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="335" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgmgz5HFSm-j7z8Il_pY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zgmgz5HFSm-j7z8Il_pY-6" target="zgmgz5HFSm-j7z8Il_pY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgmgz5HFSm-j7z8Il_pY-6" value="Skript für Harvesten und Aufbereiten der Metadaten" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zgmgz5HFSm-j7z8Il_pY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zgmgz5HFSm-j7z8Il_pY-11" target="zgmgz5HFSm-j7z8Il_pY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgmgz5HFSm-j7z8Il_pY-11" value="Manuelles Editieren der Metadaten von weiteren Geobasisdaten" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
