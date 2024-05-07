@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T14:06:33.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="SMeijwIqTKsWwvLQ7C0o" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T14:14:16.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Ix1LrTpV5EaNxDM6reVO" version="24.3.1" type="github">
   <diagram name="Seite-1" id="8oX-7nu69xEVpHodJw5y">
     <mxGraphModel dx="2373" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="OIynQWRbufFzBbrqEs6u-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="145" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="RWMj_lE9c-KkNywdO_du-8" value="Benutzerdefinierte Geodaten" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="RWMj_lE9c-KkNywdO_du-8" value="&lt;div&gt;&lt;i&gt;fdz ruhr; destatis,&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;BBSR FDZ&lt;/i&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="850" y="310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RWMj_lE9c-KkNywdO_du-10" value="SoRa Private API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -25,17 +25,17 @@
         <mxCell id="RWMj_lE9c-KkNywdO_du-18" value="SoRa Geolinking API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="460" y="165" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RWMj_lE9c-KkNywdO_du-20" value="Geobasis- / Geofachdaten" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="RWMj_lE9c-KkNywdO_du-20" value="SoRa spatial data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="850" y="200" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RWMj_lE9c-KkNywdO_du-22" value="IOER Monitor" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="850" y="100" width="140" height="70" as="geometry" />
+          <mxGeometry x="850" y="90" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RWMj_lE9c-KkNywdO_du-25" value="meta data, linking jobs, geoprocessing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="460" y="235" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RWMj_lE9c-KkNywdO_du-30" value="&lt;div&gt;Verwaltung Metadaten,&lt;/div&gt;&lt;div&gt;Verwaltung und Durchführung von Anfrage-Jobs&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="440" width="180" height="30" as="geometry" />
+        <mxCell id="RWMj_lE9c-KkNywdO_du-30" value="&lt;div&gt;FastAPI&lt;/div&gt;&lt;div&gt;Python&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="664.5" y="460" width="131" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RWMj_lE9c-KkNywdO_du-35" value="Geolinking API with database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="30" width="260" height="30" as="geometry" />
@@ -111,6 +111,21 @@
         </mxCell>
         <mxCell id="OIynQWRbufFzBbrqEs6u-22" value="&lt;b&gt;Technology&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="465" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OIynQWRbufFzBbrqEs6u-23" value="&lt;div&gt;REST API Standard&lt;/div&gt;&lt;div&gt;ISO 19115-1:2014 Geographic information — Metadata&lt;/div&gt;&lt;div&gt;FAIR principles&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OIynQWRbufFzBbrqEs6u-24" value="&lt;div&gt;FastAPI&lt;/div&gt;&lt;div&gt;PostgreSQL / PostGIS&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="460" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OIynQWRbufFzBbrqEs6u-25" value="&lt;div&gt;PostgreSQL / PostGIS&lt;/div&gt;&lt;div&gt;GeoNode (?)&lt;br&gt;FastAPI (?)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="854.5" y="460" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OIynQWRbufFzBbrqEs6u-27" value="&lt;div&gt;OGC WFS&lt;/div&gt;&lt;div&gt;OGC WCS&lt;/div&gt;&lt;div&gt;OGC CSW&lt;/div&gt;&lt;div&gt;OGC API Features&lt;/div&gt;&lt;div&gt;OGC API Coverages&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="664.5" y="560" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OIynQWRbufFzBbrqEs6u-28" value="REST API Standard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="239" y="560" width="131" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
