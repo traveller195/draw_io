@@ -1,13 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T14:14:16.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Ix1LrTpV5EaNxDM6reVO" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T14:15:17.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="DeEk5VETT03F9C2GJbGt" version="24.3.1" type="github">
   <diagram name="Seite-1" id="8oX-7nu69xEVpHodJw5y">
     <mxGraphModel dx="2373" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OIynQWRbufFzBbrqEs6u-29" value="Custom spatial data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="850" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="OIynQWRbufFzBbrqEs6u-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="145" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="RWMj_lE9c-KkNywdO_du-8" value="&lt;div&gt;&lt;i&gt;fdz ruhr; destatis,&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;BBSR FDZ&lt;/i&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="RWMj_lE9c-KkNywdO_du-8" value="&lt;div&gt;&lt;i&gt;fdz ruhr; destatis,&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;BBSR FDZ&lt;/i&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RWMj_lE9c-KkNywdO_du-10" value="SoRa Private API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -26,7 +29,7 @@
           <mxGeometry x="460" y="165" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RWMj_lE9c-KkNywdO_du-20" value="SoRa spatial data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="850" y="200" width="140" height="70" as="geometry" />
+          <mxGeometry x="850" y="150" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RWMj_lE9c-KkNywdO_du-22" value="IOER Monitor" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="850" y="90" width="140" height="70" as="geometry" />
