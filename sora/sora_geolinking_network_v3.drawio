@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T14:29:19.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="PyVvyRRneWY_W3V6oKSz" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T15:46:22.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="2Q5w7tbYyAiTr0_pScV5" version="24.3.1" type="github">
   <diagram name="Seite-1" id="8oX-7nu69xEVpHodJw5y">
-    <mxGraphModel dx="1978" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="RWMj_lE9c-KkNywdO_du-20" value="SoRa spatial data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="850" y="150" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RWMj_lE9c-KkNywdO_du-22" value="IOER Monitor" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="RWMj_lE9c-KkNywdO_du-22" value="IOER Monitor" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="850" y="90" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RWMj_lE9c-KkNywdO_du-25" value="meta data, linking jobs, geoprocessing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -151,7 +151,7 @@
             <mxPoint x="420" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIynQWRbufFzBbrqEs6u-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="OIynQWRbufFzBbrqEs6u-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="179.86" as="sourcePoint" />
             <mxPoint x="440" y="179.86" as="targetPoint" />
