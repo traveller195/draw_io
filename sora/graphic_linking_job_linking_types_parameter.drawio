@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
   <diagram name="Seite-1" id="Alotk9Q2dPav7pNGP3Qy">
-    <mxGraphModel>
+    <mxGraphModel dx="2373" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aEIhyESOMuXxNe6kChHx-1" value="Geocoded&lt;br&gt;Dataset" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEIhyESOMuXxNe6kChHx-2" value="Geospatial&lt;br&gt;Dataset" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEIhyESOMuXxNe6kChHx-3" value="Linkage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEIhyESOMuXxNe6kChHx-4" value="Circle" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aEIhyESOMuXxNe6kChHx-5" value="Point" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aEIhyESOMuXxNe6kChHx-6" value="Square" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aEIhyESOMuXxNe6kChHx-7" value="Isochrone" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aEIhyESOMuXxNe6kChHx-8" value="Nearest POI" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aEIhyESOMuXxNe6kChHx-9" value="Neighbourhood" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aEIhyESOMuXxNe6kChHx-10" value="Routing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="340" width="260" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
