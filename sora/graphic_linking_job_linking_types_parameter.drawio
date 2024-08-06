@@ -43,6 +43,9 @@
         <mxCell id="aEIhyESOMuXxNe6kChHx-8" value="Nearest POI" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="370" width="120" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="aEIhyESOMuXxNe6kChHx-16" value="&lt;div&gt;&lt;b&gt;Routing Type&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(linear distance /&lt;/div&gt;&lt;div&gt;shortest distance /&lt;/div&gt;&lt;div&gt;shortest traveltime)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="aEIhyESOMuXxNe6kChHx-8">
+          <mxGeometry x="-5" y="30" width="130" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="aEIhyESOMuXxNe6kChHx-9" value="Neighbourhood" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="400" height="20" as="geometry" />
         </mxCell>
