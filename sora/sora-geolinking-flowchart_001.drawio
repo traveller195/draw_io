@@ -129,6 +129,21 @@
         <mxCell id="SAEvLFweczplVzYCOx6r-47" value="Provenance Daten" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="655" y="780" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SAEvLFweczplVzYCOx6r-58" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Start&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="435" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAEvLFweczplVzYCOx6r-59" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Validation Error&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="185" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAEvLFweczplVzYCOx6r-60" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Validation Error&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="570" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAEvLFweczplVzYCOx6r-61" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Auth Error&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="375" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAEvLFweczplVzYCOx6r-62" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Ergebnis&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="850" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
