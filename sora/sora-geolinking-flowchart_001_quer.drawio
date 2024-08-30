@@ -32,10 +32,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SAEvLFweczplVzYCOx6r-5" value="Valide?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-335" y="360" width="100" height="80" as="geometry" />
+          <mxGeometry x="-330" y="360" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SAEvLFweczplVzYCOx6r-6" value="ddd" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-300" y="625" width="30" height="30" as="geometry" />
+          <mxGeometry x="-295" y="570" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i0hLQoZlsJyM07dA0SIh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SAEvLFweczplVzYCOx6r-8" target="SAEvLFweczplVzYCOx6r-9">
           <mxGeometry relative="1" as="geometry" />
@@ -50,16 +50,19 @@
           <mxGeometry y="360" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SAEvLFweczplVzYCOx6r-10" value="ddd" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="630" width="30" height="30" as="geometry" />
+          <mxGeometry x="35" y="570" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0hLQoZlsJyM07dA0SIh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SAEvLFweczplVzYCOx6r-16" target="SAEvLFweczplVzYCOx6r-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SAEvLFweczplVzYCOx6r-16" value="&lt;div&gt;Validierung der&amp;nbsp;&lt;/div&gt;&lt;div&gt;Eingabedaten&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="375" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SAEvLFweczplVzYCOx6r-20" value="Valide?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="355" width="100" height="80" as="geometry" />
+          <mxGeometry x="340" y="360" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SAEvLFweczplVzYCOx6r-27" value="ddd" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="570" width="30" height="30" as="geometry" />
+          <mxGeometry x="375" y="570" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SAEvLFweczplVzYCOx6r-33" value="Geocoded Dataset (nur Raumbezug+ID)" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-560" y="170" width="200" height="60" as="geometry" />
