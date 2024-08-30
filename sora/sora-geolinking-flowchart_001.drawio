@@ -97,6 +97,9 @@
         <mxCell id="SAEvLFweczplVzYCOx6r-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SAEvLFweczplVzYCOx6r-32" target="SAEvLFweczplVzYCOx6r-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SAEvLFweczplVzYCOx6r-44" value="Metadaten " style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="140" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
