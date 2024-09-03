@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uOGnUlGNdZQHuSrOQ6Ih-9" value="Raumeinheiten&lt;br&gt;(wie Gemeinde, &lt;br&gt;Landkreise)" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;dashed=1;dashPattern=8 8;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1144" y="270" width="200" height="60" as="geometry" />
+          <mxGeometry x="1159" y="270" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOGnUlGNdZQHuSrOQ6Ih-11" value="Angereichertes&lt;br&gt;Geocoded Dataset" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1794" y="160" width="200" height="60" as="geometry" />
@@ -199,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uOGnUlGNdZQHuSrOQ6Ih-42" value="Benutzerdefiniertes&lt;br&gt;Geospatial&lt;br&gt;Dataset" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;dashed=1;dashPattern=8 8;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="345" width="200" height="60" as="geometry" />
+          <mxGeometry x="1155" y="345" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
