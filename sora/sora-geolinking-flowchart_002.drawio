@@ -179,7 +179,7 @@
         <mxCell id="uOGnUlGNdZQHuSrOQ6Ih-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uOGnUlGNdZQHuSrOQ6Ih-27" target="uOGnUlGNdZQHuSrOQ6Ih-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uOGnUlGNdZQHuSrOQ6Ih-27" value="Valide?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uOGnUlGNdZQHuSrOQ6Ih-27" value="Verfügbar?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="750" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
