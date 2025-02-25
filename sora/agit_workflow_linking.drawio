@@ -58,8 +58,14 @@
         <mxCell id="raaWN0WN4g9gXLJK69xP-20" value="SoRa Geolinking API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="340" width="125" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="raaWN0WN4g9gXLJK69xP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="raaWN0WN4g9gXLJK69xP-28" target="raaWN0WN4g9gXLJK69xP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="raaWN0WN4g9gXLJK69xP-28" value="&lt;div&gt;Postprocessing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raaWN0WN4g9gXLJK69xP-30" value="&lt;div&gt;Requesting result &lt;br&gt;&lt;/div&gt;&lt;div&gt;of finished&lt;/div&gt;&lt;div&gt;linking job &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
