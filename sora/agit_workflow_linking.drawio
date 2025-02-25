@@ -13,19 +13,34 @@
         <mxCell id="raaWN0WN4g9gXLJK69xP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="110" y="120" width="290" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="raaWN0WN4g9gXLJK69xP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="raaWN0WN4g9gXLJK69xP-1" target="raaWN0WN4g9gXLJK69xP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="raaWN0WN4g9gXLJK69xP-1" value="&lt;div&gt;Create new&amp;nbsp;&lt;/div&gt;&lt;div&gt;linking job &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raaWN0WN4g9gXLJK69xP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="raaWN0WN4g9gXLJK69xP-2" target="raaWN0WN4g9gXLJK69xP-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="raaWN0WN4g9gXLJK69xP-2" value="Data validation / Preprocessing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="raaWN0WN4g9gXLJK69xP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="raaWN0WN4g9gXLJK69xP-3" target="raaWN0WN4g9gXLJK69xP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="raaWN0WN4g9gXLJK69xP-3" value="Data validation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="raaWN0WN4g9gXLJK69xP-4" value="&lt;div&gt;Preprocssing of input datasets&amp;nbsp;&lt;/div&gt;&lt;div&gt;(e.g. transform)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="raaWN0WN4g9gXLJK69xP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="raaWN0WN4g9gXLJK69xP-4" target="raaWN0WN4g9gXLJK69xP-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="raaWN0WN4g9gXLJK69xP-5" value="Join datasets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="raaWN0WN4g9gXLJK69xP-4" value="&lt;div&gt;Preprocssing&amp;nbsp;&lt;/div&gt;&lt;div&gt;of input datasets&amp;nbsp;&lt;/div&gt;&lt;div&gt;(e.g. transform,&amp;nbsp;&lt;/div&gt;&lt;div&gt;create buffer logic)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raaWN0WN4g9gXLJK69xP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="raaWN0WN4g9gXLJK69xP-5" target="raaWN0WN4g9gXLJK69xP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="raaWN0WN4g9gXLJK69xP-5" value="&lt;div&gt;Spatial join&amp;nbsp;&lt;/div&gt;&lt;div&gt;of datasets&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="raaWN0WN4g9gXLJK69xP-6" value="Final calculations (e.g. statistical aggregation)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
