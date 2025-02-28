@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tG3FgVheVPW7J_a0n9p-3" value="BKG Geocoder API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="540" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2tG3FgVheVPW7J_a0n9p-11" value="..." style="shape=card;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="750" y="270" width="60" height="70" as="geometry" />
