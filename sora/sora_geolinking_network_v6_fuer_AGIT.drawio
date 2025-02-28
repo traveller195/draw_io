@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.16">
   <diagram name="Seite-1" id="8oX-7nu69xEVpHodJw5y">
     <mxGraphModel dx="2373" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="2tG3FgVheVPW7J_a0n9p-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="660" y="160" width="180" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="r1IgVI1dFCWuwIUw40IB-1" value="&lt;div&gt;Cache&amp;nbsp;&lt;/div&gt;&lt;div&gt;(spatial datasets)&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#007FFF;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="r1IgVI1dFCWuwIUw40IB-1" value="&lt;div&gt;Cache&amp;nbsp;&lt;/div&gt;&lt;div&gt;(geospatial datasets)&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#007FFF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="460" y="385" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OIynQWRbufFzBbrqEs6u-29" value="Custom spatial data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#007FFF;strokeWidth=2;" parent="1" vertex="1">
@@ -65,13 +65,13 @@
             <mxPoint x="770" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIynQWRbufFzBbrqEs6u-9" value="CSW" style="shape=card;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="OIynQWRbufFzBbrqEs6u-9" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;OGC:&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;WFS / WCS&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="680" y="180" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OIynQWRbufFzBbrqEs6u-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;GeoSN Standard&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="OIynQWRbufFzBbrqEs6u-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;PostGIS&lt;/b&gt; &lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="750" y="180" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OIynQWRbufFzBbrqEs6u-11" value="Direct upload" style="shape=card;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="OIynQWRbufFzBbrqEs6u-11" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Zenodo&lt;/b&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="680" y="270" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r1IgVI1dFCWuwIUw40IB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="RWMj_lE9c-KkNywdO_du-25" target="r1IgVI1dFCWuwIUw40IB-1" edge="1">
@@ -106,8 +106,8 @@
         <mxCell id="2tG3FgVheVPW7J_a0n9p-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#808080;" parent="1" source="2tG3FgVheVPW7J_a0n9p-12" target="RWMj_lE9c-KkNywdO_du-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2tG3FgVheVPW7J_a0n9p-27" value="Connectors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="130" width="60" height="30" as="geometry" />
+        <mxCell id="2tG3FgVheVPW7J_a0n9p-27" value="Data Connectors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="130" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
