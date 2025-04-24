@@ -13,7 +13,7 @@
         <mxCell id="r1IgVI1dFCWuwIUw40IB-1" value="&lt;div&gt;Cache&amp;nbsp;&lt;/div&gt;&lt;div&gt;(geospatial datasets)&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#007FFF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="460" y="385" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OIynQWRbufFzBbrqEs6u-29" value="user provided spatial data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#007FFF;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="OIynQWRbufFzBbrqEs6u-29" value="&lt;div&gt;user provided&amp;nbsp;&lt;/div&gt;&lt;div&gt;spatial data&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#007FFF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="900" y="255" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2tG3FgVheVPW7J_a0n9p-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="OIynQWRbufFzBbrqEs6u-1" target="2tG3FgVheVPW7J_a0n9p-12" edge="1">
