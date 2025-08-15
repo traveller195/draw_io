@@ -208,6 +208,9 @@
         <mxCell id="bYGNK0m0bsK2GhtcvSeD-79" value="(Restart)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="795" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bYGNK0m0bsK2GhtcvSeD-80" value="(Block execution of job)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="745" width="96" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
