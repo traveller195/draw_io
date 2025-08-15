@@ -211,6 +211,21 @@
         <mxCell id="bYGNK0m0bsK2GhtcvSeD-80" value="(Block execution of job)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="344" y="745" width="96" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bYGNK0m0bsK2GhtcvSeD-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Successful&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="112" y="250" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYGNK0m0bsK2GhtcvSeD-82" value="Failed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="312" y="250" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYGNK0m0bsK2GhtcvSeD-83" value="Cancelled" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="612" y="250" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYGNK0m0bsK2GhtcvSeD-84" value="Planned server downtime" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="189" y="650" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYGNK0m0bsK2GhtcvSeD-85" value="Unexpected server downtime" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="574.75" y="530" width="170.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
