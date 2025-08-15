@@ -113,7 +113,7 @@
           <mxGeometry x="680" y="460" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYGNK0m0bsK2GhtcvSeD-31" value="&lt;font&gt;&lt;span&gt;Life cycle &quot;job status&quot; of a linking job in Geolinking Service SoRa&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="64" y="554.5" width="350" height="30" as="geometry" />
+          <mxGeometry x="85" y="560" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bYGNK0m0bsK2GhtcvSeD-32" value="CREATED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="680" width="160" height="40" as="geometry" />
