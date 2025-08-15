@@ -205,6 +205,9 @@
         <mxCell id="bYGNK0m0bsK2GhtcvSeD-72" value="unexpected server downtime" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="678" y="738" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bYGNK0m0bsK2GhtcvSeD-79" value="(Restart)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="795" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
