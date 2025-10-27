@@ -350,12 +350,6 @@
         <mxCell id="sy46qdf4OJB5Sf921RLo-28" value="Analysis on different&amp;nbsp;&lt;br&gt;spatial units" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="540" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sy46qdf4OJB5Sf921RLo-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="470" as="sourcePoint" />
-            <mxPoint x="240" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
