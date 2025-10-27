@@ -259,6 +259,15 @@
         <mxCell id="sy46qdf4OJB5Sf921RLo-11" value="Create subset for Year 2021&lt;br&gt;and Hesse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-13" value="Join municipality code (AGS)&lt;br&gt;to SOEP households" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-14" value="Join further spatial identifiers&lt;br&gt;to SOEP households" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-15" value="Spatial join with&amp;nbsp;&lt;br&gt;Urban Structure Types" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
