@@ -13,14 +13,6 @@
         <mxCell id="sy46qdf4OJB5Sf921RLo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sy46qdf4OJB5Sf921RLo-2" target="sy46qdf4OJB5Sf921RLo-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sy46qdf4OJB5Sf921RLo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sy46qdf4OJB5Sf921RLo-2" target="sy46qdf4OJB5Sf921RLo-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="550" y="248" />
-              <mxPoint x="550" y="420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-2" value="SOEPcore v39" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="300" y="220" width="180" height="40" as="geometry" />
         </mxCell>
