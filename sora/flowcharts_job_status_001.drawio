@@ -341,14 +341,14 @@
         <mxCell id="sy46qdf4OJB5Sf921RLo-20" value="Join all extracted survey&amp;nbsp;&lt;br&gt;variables" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="420" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sy46qdf4OJB5Sf921RLo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-21" target="sy46qdf4OJB5Sf921RLo-28">
+        <mxCell id="sy46qdf4OJB5Sf921RLo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-21" target="sy46qdf4OJB5Sf921RLo-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-21" value="Household-based data&lt;br&gt;with all needed fields" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sy46qdf4OJB5Sf921RLo-28" value="Analysis on different&amp;nbsp;&lt;br&gt;spatial units" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="80" y="540" width="180" height="40" as="geometry" />
+        <mxCell id="sy46qdf4OJB5Sf921RLo-28" value="Analysis on different&amp;nbsp;&lt;br&gt;spatial units" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="480" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
