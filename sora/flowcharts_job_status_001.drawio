@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Seite-1" id="zS-QnQvDe2Hph_ruHdWV">
-    <mxGraphModel dx="1650" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2477" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,8 +232,13 @@
         <mxCell id="sy46qdf4OJB5Sf921RLo-2" value="SOEPcore v39" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="60" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-3" value="SOEP Real Address&lt;br&gt;Coordinates" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="160" height="40" as="geometry" />
+          <mxGeometry x="-200" y="415" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-4" value="Hesse complete&amp;nbsp;&lt;br&gt;(Polygon)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="60" width="160" height="40" as="geometry" />
@@ -253,8 +258,11 @@
         <mxCell id="sy46qdf4OJB5Sf921RLo-9" value="Growing / Shrinking&lt;br&gt;Areas Hesse (Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="180" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-10" target="sy46qdf4OJB5Sf921RLo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-10" value="Urban Structure Types&lt;br&gt;Hesse (100 m grid)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="120" width="160" height="40" as="geometry" />
+          <mxGeometry x="-200" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-11" value="Create subset for year 2021&lt;br&gt;and Hesse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="160" height="40" as="geometry" />
