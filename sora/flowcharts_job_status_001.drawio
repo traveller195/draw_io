@@ -256,7 +256,7 @@
         <mxCell id="sy46qdf4OJB5Sf921RLo-10" value="Urban Structure Types&lt;br&gt;Hesse (100 m grid)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sy46qdf4OJB5Sf921RLo-11" value="Create subset for Year 2021&lt;br&gt;and Hesse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sy46qdf4OJB5Sf921RLo-11" value="Create subset for year 2021&lt;br&gt;and Hesse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-13" value="Join municipality code (AGS)&lt;br&gt;to SOEP households" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
