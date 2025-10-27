@@ -233,7 +233,7 @@
           <mxGeometry x="80" y="60" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-3" value="SOEP Real Address&lt;br&gt;Coordinates" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="60" width="160" height="40" as="geometry" />
+          <mxGeometry x="280" y="60" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-4" value="Hesse complete&amp;nbsp;&lt;br&gt;(Polygon)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="60" width="160" height="40" as="geometry" />
@@ -252,6 +252,9 @@
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-9" value="Growing / Shrinking&lt;br&gt;Areas Hesse (Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-10" value="Urban Structure Types&lt;br&gt;Hesse (100 m grid)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
