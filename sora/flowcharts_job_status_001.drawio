@@ -229,6 +229,14 @@
         <mxCell id="sy46qdf4OJB5Sf921RLo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-1" target="sy46qdf4OJB5Sf921RLo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-1" target="sy46qdf4OJB5Sf921RLo-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="208" />
+              <mxPoint x="40" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-1" value="SOEP Structural&lt;br&gt;Dataset" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="180" width="160" height="40" as="geometry" />
         </mxCell>
