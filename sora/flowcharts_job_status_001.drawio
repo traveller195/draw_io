@@ -238,13 +238,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-1" value="SOEP Structural&lt;br&gt;Dataset" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="180" width="160" height="40" as="geometry" />
+          <mxGeometry x="-200" y="180" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-2" target="sy46qdf4OJB5Sf921RLo-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-2" value="SOEPcore v39" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="240" width="160" height="40" as="geometry" />
+          <mxGeometry x="-200" y="240" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-3">
           <mxGeometry relative="1" as="geometry">
@@ -252,64 +252,64 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-3" value="SOEP Real Address&lt;br&gt;Coordinates" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="415" width="160" height="40" as="geometry" />
+          <mxGeometry x="-200" y="415" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-4" value="Hesse complete&amp;nbsp;&lt;br&gt;(Polygon)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="100" width="160" height="40" as="geometry" />
+          <mxGeometry x="-470" y="100" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-5" value="Municipalities Hesse&lt;br&gt;(Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="160" width="160" height="40" as="geometry" />
+          <mxGeometry x="-470" y="160" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-6" value="Counties Hesse&lt;br&gt;(Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="220" width="160" height="40" as="geometry" />
+          <mxGeometry x="-470" y="220" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-7" value="Regierungsbezirke&lt;br&gt;Hesse (Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="280" width="160" height="40" as="geometry" />
+          <mxGeometry x="-470" y="280" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-8" value="Municipality Type&lt;br&gt;Hesse (Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="-470" y="340" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-9" value="Growing / Shrinking&lt;br&gt;Areas Hesse (Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="400" width="160" height="40" as="geometry" />
+          <mxGeometry x="-470" y="400" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-10" target="sy46qdf4OJB5Sf921RLo-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-10" value="Urban Structure Types&lt;br&gt;Hesse (100 m grid)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="360" width="160" height="40" as="geometry" />
+          <mxGeometry x="-200" y="360" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-11" target="sy46qdf4OJB5Sf921RLo-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-11" value="Create subset for year 2021&lt;br&gt;and Hesse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="180" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="180" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-13" target="sy46qdf4OJB5Sf921RLo-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-13" value="Join municipality code (AGS)&lt;br&gt;to SOEP households" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="240" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-14" target="sy46qdf4OJB5Sf921RLo-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-14" value="Join further spatial identifiers&lt;br&gt;to SOEP households" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="300" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-15" target="sy46qdf4OJB5Sf921RLo-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-15" value="Spatial join with&amp;nbsp;&lt;br&gt;Urban Structure Types" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="360" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-20" target="sy46qdf4OJB5Sf921RLo-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-20" value="Join all extracted survey&amp;nbsp;&lt;br&gt;variables" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="420" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="420" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-21" value="Household-based data&lt;br&gt;with all needed fields" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="480" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
