@@ -130,10 +130,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2OY20YXBduM8Riqg4RIn-6" value="SOEP Structural&lt;br&gt;Dataset" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="310" y="585" width="180" height="40" as="geometry" />
+          <mxGeometry x="580" y="705" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2OY20YXBduM8Riqg4RIn-8" value="SOEPcore v39" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="310" y="645" width="180" height="40" as="geometry" />
+          <mxGeometry x="780" y="705" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2OY20YXBduM8Riqg4RIn-10" value="SOEP Real Address&lt;br&gt;Coordinates" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="820" width="180" height="40" as="geometry" />
