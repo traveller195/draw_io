@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Seite-1" id="zS-QnQvDe2Hph_ruHdWV">
-    <mxGraphModel dx="2477" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2202" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,26 +229,29 @@
         <mxCell id="sy46qdf4OJB5Sf921RLo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-1" target="sy46qdf4OJB5Sf921RLo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sy46qdf4OJB5Sf921RLo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-1" target="sy46qdf4OJB5Sf921RLo-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="40" y="178" />
-              <mxPoint x="40" y="410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-1" value="SOEP Structural&lt;br&gt;Dataset" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-200" y="150" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-2" target="sy46qdf4OJB5Sf921RLo-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-2" target="sy46qdf4OJB5Sf921RLo-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="238" />
+              <mxPoint x="50" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-2" value="SOEPcore v39" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-200" y="210" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sy46qdf4OJB5Sf921RLo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-3">
+        <mxCell id="sy46qdf4OJB5Sf921RLo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sy46qdf4OJB5Sf921RLo-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sy46qdf4OJB5Sf921RLo-3" value="SOEP Real Address&lt;br&gt;Coordinates" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
