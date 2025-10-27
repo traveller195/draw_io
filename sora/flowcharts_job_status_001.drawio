@@ -235,6 +235,24 @@
         <mxCell id="sy46qdf4OJB5Sf921RLo-3" value="SOEP Real Address&lt;br&gt;Coordinates" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="60" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-4" value="Hesse complete&amp;nbsp;&lt;br&gt;(Polygon)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-5" value="Municipalities Hesse&lt;br&gt;(Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-6" value="Counties Hesse&lt;br&gt;(Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-7" value="Regierungsbezirke&lt;br&gt;Hesse (Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="60" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-8" value="Municipality Type&lt;br&gt;Hesse (Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sy46qdf4OJB5Sf921RLo-9" value="Growing / Shrinking&lt;br&gt;Areas Hesse (Polygons)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="180" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
